@@ -2,7 +2,7 @@
 
 # Usage: pip install -r requirements.txt
 # @Student: please install these packages for constructing stable development environment.
-jupyterlab==3.6.3
+jupyterlab==3.6.7
 jupyter_contrib_nbextensions==0.5.1
 requests==2.31.0
 requests-cache==1.1.0
